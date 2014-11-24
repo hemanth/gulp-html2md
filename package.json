@@ -1,6 +1,6 @@
 {
   "name": "gulp-html2md",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Removes unneeded whitespaces, line-breaks, comments, etc from HTML",
   "main": "index.js",
   "scripts": {
