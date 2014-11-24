@@ -23,7 +23,7 @@ gulp.task('default', function(){
 The above will convert index.html to index.md!  
 
 [travis-url]: http://travis-ci.org/hemanth/gulp-html2md
-[travis-image]: https://secure.travis-ci.org/lazd/gulp-html2md.png?branch=master
+[travis-image]: https://api.travis-ci.org/hemanth/gulp-html2md.png?branch=master
 [npm-url]: https://npmjs.org/package/gulp-html2md
 [npm-image]: https://badge.fury.io/js/gulp-repl.png
 
